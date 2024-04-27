@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:62664/</loc>
+    <lastmod>2024-04-27T16:24:25+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62664/posts/</loc>
+    <lastmod>2024-04-27T16:24:25+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62664/posts/your-first-post/</loc>
+    <lastmod>2024-04-27T16:24:25+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62664/categories/</loc>
+  </url><url>
+    <loc>http://localhost:62664/tags/</loc>
+  </url>
+</urlset>
